@@ -1,5 +1,9 @@
 {
     "code-runner.saveFileBeforeRun": true,
     "code-runner.runInTerminal": true,
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "string": "cpp",
+        "vector": "cpp"
+    }
 }
